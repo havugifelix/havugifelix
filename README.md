@@ -40,4 +40,8 @@ My research interests are in areas of Applied ML/DL, Computer Vision, and Time-s
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/havugifelix/EEG-image-generation-for-deep-learning" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=havugifelix&repo=EEG-image-generation-for-deep-learning&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/havugifelix/Single-trial-precition-of-Cognitive-load" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=havugifelix&repo=Single-trial-precition-of-Cognitive-load&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+<br /><br /><br /><br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/havugifelix/Python_implementation_of_object-detection-using-YOLOV3-network" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=havugifelix&repo=Python_implementation_of_object-detection-using-YOLOV3-network&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/havugifelix/Deep-CNN-models-for-scene-and-cifar10-classification-tasks" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=havugifelix&repo=Deep-CNN-models-for-scene-and-cifar10-classification-tasks&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
