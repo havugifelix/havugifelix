@@ -12,7 +12,7 @@ My research interests are in areas of Applied ML/DL, Computer Vision, and Time-s
 * 🧠  I'm learning Transfomers and Attention Mechanism for Time-series data (E.g., EEG)
 * 🤝  I'm open to collaborating on exciting ML/DL projects
 
-### Skills
+### Skills (Programming)
 
 
 <p align="left">
