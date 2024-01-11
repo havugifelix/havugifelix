@@ -1,7 +1,7 @@
 Hi 👋 My name is Felix Havugimana
 =================================
 
-Ph.D Student and Doctoral Research Assitant
+Ph.D Candidate and Doctoral Research Assitant
 -----------------------------------------------
 
 My research interests are in areas of Applied ML/DL, Computer Vision, and Time-series data analysis
